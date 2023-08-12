@@ -29,8 +29,8 @@ Input the first number (e.g., 7).
 Click an operation button (e.g., '+').
 Input the second number (e.g., 3).
 Click the "=" button or press "Enter" to see the result (e.g., 10).
-Support and Issues
-If you encounter any issues while using the Calculator App or have suggestions for improvements, please feel free to contact the developer at developer@calculatorapp.com. Your feedback is valuable for enhancing the app's functionality and user experience.
+If you encounter any issues while using the Calculator App or have suggestions for improvements, please feel free to contact the developer at vishnusankar2511@gmail.com. Your feedback is valuable for enhancing the app's functionality and user experience.
 
 
 Thank you for using the Calculator App! We hope this tool simplifies your calculations and improves your productivity. If you have any questions or need assistance, don't hesitate to reach out. Happy calculating! 🧮
+ 
